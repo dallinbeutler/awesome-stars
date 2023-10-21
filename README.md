@@ -92,7 +92,7 @@
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
